@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <dimen name="versus">64dp</dimen>
+    <dimen name="pokemonSize">128dp</dimen>
+    <dimen name="pokemonLayoutHeight">220dp</dimen>
+    <dimen name="textSize">32dp</dimen>
 </resources>
